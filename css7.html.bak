@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+	       
+    <title>css7</title>
+	<style type="text/css">
+	   body{ background-image:url("https://cdn.pixabay.com/photo/2018/08/15/07/19/indian-flag-3607410__480.jpg");
+		     background-repeat:no-repeat;
+			 background-position:center;
+			 background-attachment:fixed;
+			 
+            }
+    </style>
+ </head>
+ <body>
+    <h1><center><font face="tahoma" color="brown"> Well come to tech english </center> </font></h1>
+	<p><font face="arieal" color="red" size="4"> this is giri creations,
+	 this is venkey creation,
+	 this is hari creation. </font></P>
+	<ul> Here we will learn  about 
+	     <li> HTML </li>
+		 <li> CSS </li>
+		 <li> JAVE SCRIPT </li>
+		 <li> MS-OFFICE </li>
+         <li> TALLY </li>
+         <li> WINDOWS </li>
+	</ul>
+	<ol> Here we will learn  about 
+	     <li> HTML </li>
+		 <li> CSS </li>
+		 <li> JAVE SCRIPT </li>
+		 <li> MS-OFFICE </li>
+         <li> TALLY </li>
+         <li> WINDOWS </li>
+	</ol>
+	<ul> Here we will learn  about 
+	     <li> HTML </li>
+		 <li> CSS </li>
+		 <li> JAVE SCRIPT </li>
+		 <li> MS-OFFICE </li>
+         <li> TALLY </li>
+         <li> WINDOWS </li>
+	</ul>
+	<ol> Here we will learn  about 
+	     <li> HTML </li>
+		 <li> CSS </li>
+		 <li> JAVE SCRIPT </li>
+		 <li> MS-OFFICE </li>
+         <li> TALLY </li>
+         <li> WINDOWS </li>
+	</ol>
+	<a href="#"> learn Html </a><br>
+	<a href="#"> Learn Css </a><br>
+	<a href="#"> Learn Java script </a>
+ </body>
+</html>

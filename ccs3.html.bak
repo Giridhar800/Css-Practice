@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  
+    <title>css3</title>
+	<link rel="stylesheet" href="style1.css">
+ </head>
+ <body> 
+    <h1><i> Venkey </i></h1>
+    <h2><i> sunil </i></h2>
+	<p> This is venkey creation </p>
+  
+ </body>
+</html>

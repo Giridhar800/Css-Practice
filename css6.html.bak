@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  
+  <title>css7</title>
+  <style type="text/css">
+       div > p {
+		    color:yellow;
+			background-color:green;
+			}
+  </style>
+ </head>
+ <body> <div>
+         <h1> Wellcome to tech english </h1>
+		 <h2> css Tutorial for BEGINNERS </h2> 
+	</div>
+	
+	     <p> Wellcome to tech enlight. Here we are going to learn complete web development course </p>
+		 <h2> css internal style sheets </h2>
+		 <p> wellcome to tech light </p>
+		 <h2> wellcome
+		           <p> know about  class  selectors in css </p></h2>
+		 <h4> wellcome to web development </h4>
+	
+  
+ </body>
+</html>

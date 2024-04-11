@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  
+    <title>css2</title>
+	<link rel="stylesheet" href="style1.css">
+ </head>
+ <body>
+    <h1><i>KALYANI </i></h1>
+    <h2><i> GIRI </i></h2>
+	<p> This is giri creation </p>
+  
+ </body>
+</html>
