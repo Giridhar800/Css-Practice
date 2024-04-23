@@ -8,7 +8,7 @@
 - Regularly updated with new exercises<br> 
 - Suitable for beginners and advanced users alike<br>
 # Usage
-- Clone the repository: git clone ""<br>
+- Clone the repository: git clone "https://github.com/Giridhar800/Css-Practice.git"<br>
 - Navigate to the directory: cd CSS-practice<br>
 - Start practicing CSS by exploring the exercises in each topic folder.<br>
 # Contributions
